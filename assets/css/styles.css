@@ -107,11 +107,11 @@ body.scale-cv{
 }
 
 .scale-cv .section{
-  padding: .5rem 0 .80rem;
+  padding: .25rem 0 .80rem;
 }
 
 .scale-cv .section-title{
-  margin-bottom: .50rem;
+  margin-bottom: .30rem;
 }
 
 
@@ -129,7 +129,7 @@ body.scale-cv{
 }
 
 .scale-cv .home__container{
-  gap: 1.5rem;
+  gap: 1rem;
 }
 
 .scale-cv .home__data{
@@ -152,7 +152,7 @@ body.scale-cv{
 
 .scale-cv .education__container,
 .scale-cv .experience__container{
-  gap: 1rem;
+  gap: .75rem;
 }
 
 .scale-cv .education__time,
@@ -219,7 +219,7 @@ img{
 
 /*========== CLASS CSS ==========*/
 .section{
-  padding: 1rem 0;
+  padding: .5rem 0;
 }
 
 .section-title{
@@ -463,7 +463,7 @@ img{
 .education__studies,
 .experience__company{
   font-size: var(--small-font-size);
-  color: var(--title-color);
+  color: var(--text-color-light);
 }
 
 .education__year{
@@ -604,6 +604,7 @@ img{
 
   .references__container{
     grid-template-columns: repeat(2, 1fr);
+    margin-left: 2rem;
   }
 }
 
