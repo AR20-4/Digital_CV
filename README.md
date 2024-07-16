@@ -1,1 +1,2 @@
-# Digital_CV
+### I am a dedicated and creative Front-End Web Developer with a diverse background in graphic design, marketing, and video production who seeks to leverage my skills and experience and contribute to a dynamic tech team. With experience in building visually appealing and user-friendly websites using HTML, CSS, JavaScript, React, and other modern technologies, I’ve proven my ability to collaborate effectively in cross-functional teams to deliver high-quality projects. 
+
